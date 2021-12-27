@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>Nico/React - App.js</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://d3ugyf2ht6aenh.cloudfront.net/stores/001/130/674/products/beepure-cerveza-scottish1-421581510678b95d1315852249563171-640-0.jpg"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Cerveceria Artesanal
         </a>
       </header>
     </div>
